@@ -1,0 +1,9 @@
+Training example program in python.
+
+Requires:
+python v3
+
+To run:
+
+$ python3 myscript.py
+
